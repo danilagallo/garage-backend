@@ -1,0 +1,1 @@
+web: npm install_dep && npm run build && npm start
